@@ -4,4 +4,4 @@
 
 - Source de données
    * [ADEME](https://bilans-ges.ademe.fr/fr/accueil)
-   * [INSEE](https://www.insee.fr/fr/information/2406147)
+   * [INSEE - code NAF](https://www.insee.fr/fr/information/2406147)
